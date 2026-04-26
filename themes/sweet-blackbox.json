@@ -1,1 +1,35 @@
-
+{
+  "name": "Sweet Blackbox",
+  "comment": "Sweet-inspired dark neon theme for Blackbox",
+  "background-color": "#161925",
+  "foreground-color": "#f1f2ff",
+  "badge-color": "#8500f7",
+  "bold-color": "#8500f7",
+  "cursor-background-color": "#c50ed2",
+  "cursor-foreground-color": "#161925",
+  "highlight-background-color": "#8500f7",
+  "highlight-foreground-color": "#ffffff",
+  "palette": [
+    "#282c3f",
+    "#ff5c8a",
+    "#54e39f",
+    "#ffcf5a",
+    "#8500f7",
+    "#c50ed2",
+    "#2de2e6",
+    "#f1f2ff",
+    "#5f6480",
+    "#ff79a8",
+    "#78f7b2",
+    "#ffe083",
+    "#a24dff",
+    "#ea5cff",
+    "#67f3f0",
+    "#ffffff"
+  ],
+  "use-badge-color": false,
+  "use-bold-color": false,
+  "use-cursor-color": true,
+  "use-highlight-color": true,
+  "use-theme-colors": false
+}
