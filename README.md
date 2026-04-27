@@ -14,6 +14,14 @@ A port of the **Sweet** color scheme by [EliverLara](https://github.com/EliverLa
 6. Restart Blackbox.
 7. Repeat Step 3 and select **Sweet**.
 
+## 🎵 Extra: Cava Theme
+I've also included a matching theme for **Cava**.
+
+### Installation:
+1. Open your Cava config file (usually `~/.config/cava/config`).
+2. Copy the colors from [extra/cava/config](extra/cava/config) into your configuration.
+3. Restart Cava.
+
 ## 📑 Credits
 - Original theme by [EliverLara](https://github.com/EliverLara).
 - Ported by [LordBlack006](https://github.com/LordBlack006).
